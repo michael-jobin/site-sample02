@@ -1,0 +1,9 @@
+.top_mv {
+  width: 100%;
+  height: 100vh;
+  padding: 1rem;
+}
+.top_mv_inner {
+  background-color: #333;
+  border-radius: 3rem;
+}
